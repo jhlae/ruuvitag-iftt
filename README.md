@@ -1,2 +1,2 @@
 # ruuvitag-iftt
-A simple Python implementation for sending sensor data to IFTT's custom trigger
+A simple Python implementation for sending sensor data to Google Firebase and IFTT's custom trigger
